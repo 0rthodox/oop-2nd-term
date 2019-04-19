@@ -1,5 +1,0 @@
-all:
-	g++ *.cpp -o test
-
-clean:
-	rm test
